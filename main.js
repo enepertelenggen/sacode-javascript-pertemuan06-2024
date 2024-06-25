@@ -10,5 +10,5 @@ const str3 =`${str2}`;
 
 console.log(str1.toLowerCase());
 console.log(str1);
-console.log(str2);
+console.log(str2.toLowerCase());
 console.log(str3);
